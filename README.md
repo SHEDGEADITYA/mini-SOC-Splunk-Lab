@@ -22,5 +22,5 @@ The goal of this project was to build a functional Mini Security Operations Cent
 )
 *Splunk successfully detected a massive spike in failed SSH authentication attempts originating from the Kali Linux IP address.*
 
-![Hydra brute force in Kali terminal]()
+![Hydra brute force in Kali terminal](https://github.com/SHEDGEADITYA/mini-SOC-Splunk-Lab/blob/main/WhatsApp%20Image%202026-09-28%20at%208.13.15%20PM.jpeg?raw=true)
 *The simulated attack utilizing Hydra.*
