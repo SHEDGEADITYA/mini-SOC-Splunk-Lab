@@ -18,7 +18,8 @@ The goal of this project was to build a functional Mini Security Operations Cent
 
 ## Results & Artifacts
 
-![Splunk detecting the Hydra attack]()
+![Splunk detecting the Hydra attack](<img width="1906" height="948" alt="image" src="https://github.com/user-attachments/assets/a9160408-9cc4-414b-966a-657d9eacfb5d" />
+)
 *Splunk successfully detected a massive spike in failed SSH authentication attempts originating from the Kali Linux IP address.*
 
 ![Hydra brute force in Kali terminal]()
